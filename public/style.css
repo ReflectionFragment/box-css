@@ -1,0 +1,14 @@
+*,
+*:before,
+*:after {
+    font-size: 17px;
+    font-family: 'Raleway';
+    color: #6c7279;
+    box-sizing: border-box;
+    background-color: #1f2c36;
+}
+
+.body{
+    background: url("../src/img/3505038-middle.png") no-repeat;
+
+}
